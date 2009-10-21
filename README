@@ -77,6 +77,13 @@ Documentation
 __ doc/documentation.html
 
 
+Source Code
+-----------
+
+Use Mercurial to get a copy of the source.
+
+`Download <https://hg.furius.ca/public/oanpy/>`_
+
 
 Caveats
 =======
