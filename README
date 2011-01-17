@@ -80,9 +80,11 @@ __ doc/documentation.html
 Source Code
 -----------
 
-Use Mercurial to get a copy of the source.
+A Mercurial repository can be found at:
 
-`Download <https://hg.furius.ca/public/oanpy/>`_
+  https://hg.furius.ca/public/oanpy/
+
+`Click here for download instructions. </web-furius/downloading.html>`_
 
 
 Caveats
