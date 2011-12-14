@@ -71,9 +71,7 @@ list RateTable__getHistory( RateTable& rtable,
 {
     list l;
     std::vector<FXHistoryPoint> result;
-    // std::cout << "getHistory " << pair << "  " << interval << std::endl;
     rtable.getHistory(result, pair, interval, numTicks);
-    // std::cout << "COUNT " << result.size() << std::endl;
     for ( std::vector<FXHistoryPoint>::const_iterator it = result.begin();
           it != result.end();
           ++it ) {

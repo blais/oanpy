@@ -70,16 +70,6 @@ std::string Account__str__( Account& acc )
 }
 
 
-
-// typedef void (*LogFunction)(char*, ...);
-// 
-// template <LogFunction T>
-// void simplify_log_function( const char* msg ) {
-//     T( const_cast<char*>(msg) );
-// }
-
-
-
 template <class T>
 list vector_to_list( const std::vector<T>& vec ) 
 {
