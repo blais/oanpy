@@ -64,10 +64,9 @@ Python bindings for the OANDA C++ API.
       author="Martin Blais",
       author_email="blais@furius.ca",
       url="http://furius.ca/oanpy",
+      download_url="http://bitbucket.org/blais/oanpy",
       package_dir = {'': 'lib/python'},
       packages = ['oanda', 'oanserv'],
       scripts=scripts,
       ext_modules=[extmod]
      )
-
-
