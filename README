@@ -82,9 +82,7 @@ Source Code
 
 A Mercurial repository can be found at:
 
-  https://hg.furius.ca/public/oanpy/
-
-`Click here for download instructions. </web-furius/downloading.html>`_
+  http://bitbucket.org/blais/oanpy
 
 
 Caveats
@@ -176,5 +174,3 @@ __ /home/contact.html
 .. _Python: http://python.org
 .. _Twisted: http://twistedmatrix.com
 .. _Linux: http://en.wikipedia.org/wiki/Linux
-
-
