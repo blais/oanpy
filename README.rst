@@ -82,7 +82,7 @@ Source Code
 
 A Mercurial repository can be found at:
 
-  http://bitbucket.org/blais/oanpy
+  http://github.com/blais/oanpy
 
 
 Caveats
